@@ -1,6 +1,5 @@
-## <a href="https://zairesims.github.io/ZairesWebpage/" > Page 1</a> <a href="https://zairesims.github.io/ZairesWebpage2/" > Page 2</a> <a href="https://zairesims.github.io/ZairesWebpage3/" > Page 2</a>
+## <a href="https://zairesims.github.io/ZairesWebpage/" > Page 1</a> <a href="https://zairesims.github.io/ZairesWebpage2/" > Page 2</a> <a href="https://zairesims.github.io/ZairesWebpage3/" > Page 3</a>
 
-https://zairesims.github.io/ZairesWebpage3/
 
 
 <p align="center"> 
